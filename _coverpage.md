@@ -1,4 +1,4 @@
-# Scharbels Knowledgebase
+# Scharbels Code Combat 
 
 > Hello World Lorem Ipsum Dolot Sit Amet.
 
