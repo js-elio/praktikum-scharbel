@@ -1,0 +1,9 @@
+# Scharbels Code Combat 
+
+> Hello World Lorem Ipsum Dolot Sit Amet.
+
+- Lorem Ipsum Dolot Sit
+- Lorem Ipsum Dolot Sit
+- Lorem Ipsum Dolot Sit
+
+[Get Started](#docsify)
