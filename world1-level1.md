@@ -1,7 +1,7 @@
  # Level 1             
 ## Verlies von Kithgard
 
-
+![Alt text](1.png)
 
 ```js
 // Gehe zum Edelstein.
