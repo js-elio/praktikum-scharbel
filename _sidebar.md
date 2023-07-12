@@ -11,3 +11,7 @@
 * [Welt 1 Level 7](world1-level7.md)
 * [Welt 1 Level 8](world1-level8.md)
 * [Welt 1 Level 9](world1-level9.md)
+* [Welt 1 Level 10](world1-level10.md)
+* [Welt 1 Level 11](world1-level11.md)
+* [Welt 1 Level 12](world1-level12.md)
+* [Welt 1 Level 13](world1-level13.md)
