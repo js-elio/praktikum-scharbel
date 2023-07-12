@@ -25,5 +25,10 @@
 * [Welt 1 Level 21](world1-level21.md)
 * [Welt 1 Level 22](world1-level22.md)
 * [Welt 1 Level 23](world1-level23.md)
-* 
+* [Welt 1 Level 24](world1-level23.md)
+* [Welt 1 Level 25](world-1-lvel25.md)
+* [Welt 1 Level 26](world1-level26.md)
+* [Welt 1 Level 27](world1-level27.md)
+* [Welt 1 Level 28](world1-level28.md)
+* [Welt 1 Level 29](world1-level29.md)
 
