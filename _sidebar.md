@@ -31,4 +31,6 @@
 * [Welt 1 Level 27](world1-level27.md)
 * [Welt 1 Level 28](world1-level28.md)
 * [Welt 1 Level 29](world1-level29.md)
+* [Welt 1 Level 30](world1-level30.md)
+* [Welt 1 Level 31](world1-level31.md)
 
