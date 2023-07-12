@@ -1,7 +1,7 @@
 # Level 2 
 ## Vergesslicher Edelsteinschmied 
 
-![Alt text](-..png)
+
 
 
 
