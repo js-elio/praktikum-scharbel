@@ -9,3 +9,5 @@
 * [Welt 1 Level 5](world1-level5.md)
 * [Welt 1 Level 6](world1-level6.md)
 * [Welt 1 Level 7](world1-level7.md)
+* [Welt 1 Level 8](world1-level8.md)
+* [Welt 1 Level 9](world1-level9.md)
