@@ -1,6 +1,6 @@
 # Level37
 ## Die tore von Kithgard
-![Alt text](37-1.png)
+![Alt text](37.png)
 ```js
 // Baue 3 Zäune, um dir die Oger vom Leibe zu halten!
 
