@@ -1,5 +1,6 @@
 # Level 32 
 ## Schränke von Kithgard 
+![Alt text](32.png)
 
 ```js
 hero.moveUp();
