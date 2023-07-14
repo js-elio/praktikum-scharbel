@@ -33,4 +33,13 @@
 * [Welt 1 Level 29](world1-level29.md)
 * [Welt 1 Level 30](world1-level30.md)
 * [Welt 1 Level 31](world1-level31.md)
+* [Welt 1 Level 32](world1-level32.md)
+* [Welt 1 Level 33](world1-level33.md)
+* [Welt 1 Level 34](world1-level34.md)
+* [Welt 1 Level 35](world1-level35.md)
+* [Welt 1 Level 36](world1-level36.md)
+* [Welt 1 Level 37](world1-level37.md)
+* [Welt 1 Level 38](world1-level38.md)
+* [Welt 1 Level 39](world1-level39.md)
+* [Welt 1 Level 40](world1-level40.md)
 
