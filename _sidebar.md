@@ -42,4 +42,9 @@
 * [Welt 1 Level 38](world1-level38.md)
 * [Welt 1 Level 39](world1-level39.md)
 * [Welt 1 Level 40](world1-level40.md)
+* [Welt 2 Level 1](world2-level1.md)
+* [Welt 2 Level 2](world2-level2.md)
+* [Welt 2 Level 3](world2-level3.md)
+* [Welt 2 Level 4](world2-level4.md)
+* [Welt 2 Level 5](world2-level4.md)
 
