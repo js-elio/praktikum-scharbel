@@ -1,5 +1,5 @@
 # Level 34
-## Meister der Namen 
+## Schliessen der Kluft 
 ![Alt text](36.png)
 ```js 
 hero.moveRight();
